@@ -14,6 +14,30 @@
 
 - 📫 How to reach me **aarathisree.1535@gmail.com**
 
+🚀 Whether it's developing web applications, implementing machine learning algorithms, or crafting data visualizations, I thrive on the challenge of turning ideas into reality. Each project I undertake is an opportunity to learn, grow, and make a meaningful impact.
+
+💡 Here are some of the projects I'm proud to have worked on:
+- **Graduate Admission Predictor**: In this project a student can know if they are eligible to take up graduation admission using their GRE Score, TOFEL Score and other important criteria to evaluate.
+  Link = https://graduate-admission-predictor-byaarathi1535.streamlit.app/
+- **Email Spam Detection**: Here is where any person can access the website to check if the mail they received is spam or ham.
+  Link = https://emailspamdetection-byaarathi1535.streamlit.app/
+- **Rock Paper Scissors Game**: This is a fun game to play rock-paper-scissors againt the computer.
+  Link = https://github.com/Aarathi1535/Rock-Paper-Scissors-Game
+- **Password Generator**: A basic python project where in computer generates a password fulfilling all the criteria.
+  Link = https://github.com/Aarathi1535/Password_Generator
+- **Instagram Account Details Fetcher**: Here a person can stalk the count of followers,posts and following users using an instagram username.
+  Link = https://github.com/Aarathi1535/Instagram_Account_Details_project
+- **Calculator**: A simple mathematical calculator using tkinter python.
+  Link = https://github.com/Aarathi1535/Tkinter_program
+- **Phone Number Details**: This is a python project where a person can fetch details using a phone number.
+  Link = https://github.com/Aarathi1535/Phone_Number_Details
+- **Titanic Survival**: This is a machine learning based project to check the survival rate in titanic crash.
+  Link = https://github.com/Aarathi1535/Titanic_survivals_ml_project
+- **Breast Cancer Diagnosis**: A predictive model that tells the chances of breast cancer by taking some required medical information as input.
+  Link = https://github.com/Aarathi1535/BreastCancerDiagnosis-MLProject
+- **Iris Classification**: This model classifies the iris flower dataset.
+  Link = https://github.com/Aarathi1535/Iris-CLassification---ML--Project
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/aarathisree-balla-349b66284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aarathisree-balla-349b66284" height="30" width="40" /></a>
