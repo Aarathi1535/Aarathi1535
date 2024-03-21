@@ -1,5 +1,4 @@
-<h1 align="center"> ![image](https://github.com/Aarathi1535/Aarathi1535/assets/121624731/bfbf6120-0e7e-46ba-a527-d5caa4e7931a)
-Balla Aarathisree</h1>
+<h1 align="center"> Balla Aarathisree</h1>
 <h3 align="center">Data Science Enthusiast!!</h3>
 <h4>👋 Hi there! I'm Balla Aarathisree, a passionate individual deeply interested in the realms of machine learning and data science. With a solid foundation in Java, C, Python, HTML, and CSS, I enjoy crafting solutions that blend creativity with technical precision. My journey into the world of data analytics has been exhilarating, allowing me to leverage tools like Power BI to unearth actionable insights from complex datasets.
 
