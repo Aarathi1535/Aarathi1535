@@ -1,3 +1,4 @@
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechrseries.com%2Ffeatured%2Ftop-global-data-science-certifications-to-help-you-boost-your-profile%2F&psig=AOvVaw3pRmDmMpQvgcmw1Pypiehp&ust=1711118837462000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC-3cTMhYUDFQAAAAAdAAAAABAE))
 <h1 align="center"> Balla Aarathisree</h1>
 <h3 align="center">Data Science Enthusiast!!</h3>
 <h4>👋 Hi there! I'm Balla Aarathisree, a passionate individual deeply interested in the realms of machine learning and data science. With a solid foundation in Java, C, Python, HTML, and CSS, I enjoy crafting solutions that blend creativity with technical precision. My journey into the world of data analytics has been exhilarating, allowing me to leverage tools like Power BI to unearth actionable insights from complex datasets.
