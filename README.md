@@ -16,7 +16,7 @@
 
 🚀 Whether it's developing web applications, implementing machine learning algorithms, or crafting data visualizations, I thrive on the challenge of turning ideas into reality. Each project I undertake is an opportunity to learn, grow, and make a meaningful impact.
 
-💡 Here are some of the projects I'm proud to have worked on:
+💡 Here are some of the projects where I have applied my skills learnt so far:
 - **Graduate Admission Predictor**: In this project a student can know if they are eligible to take up graduation admission using their GRE Score, TOFEL Score and other important criteria to evaluate.
   Link = https://graduate-admission-predictor-byaarathi1535.streamlit.app/
 - **Email Spam Detection**: Here is where any person can access the website to check if the mail they received is spam or ham.
