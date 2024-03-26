@@ -24,8 +24,8 @@
   Link = https://graduate-admission-predictor-byaarathi1535.streamlit.app/
 - **Email Spam Detection**: Here is where any person can access the website to check if the mail they received is spam or ham.
   Link = https://emailspamdetection-byaarathi1535.streamlit.app/
-- **Rock Paper Scissors Game**: This is a fun game to play rock-paper-scissors againt the computer.
-  Link = https://github.com/Aarathi1535/Rock-Paper-Scissors-Game
+- **Rock Paper Scissors Game**: This is a fun game to play rock-paper-scissors against the computer.
+  Link = https://rockpaperscissors-i91f.onrender.com
 - **Password Generator**: A basic python project where in computer generates a password fulfilling all the criteria.
   Link = https://github.com/Aarathi1535/Password_Generator
 - **Instagram Account Details Fetcher**: Here a person can stalk the count of followers,posts and following users using an instagram username.
