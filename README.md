@@ -21,6 +21,9 @@
 🚀 Whether it's developing web applications, implementing machine learning algorithms, or crafting data visualizations, I thrive on the challenge of turning ideas into reality. Each project I undertake is an opportunity to learn, grow, and make a meaningful impact.
 
 💡 Here are some of the projects where I have applied my skills learnt so far:
+- **Crop Recommendation System**: A self made website using Machine Learning ALgorithms(Decision Tree and Random Forest) for crop and fertilizer predcition respectively. Along with Python ML, the project was 
+  implemented using HTML&CSS, Javascript and Flask for Frontend and Backend followed by MySQL to connect databases (for feedback).
+  Link = https://crop-recommendation-system-app.onrender.com/
 - **Plagiarism Detector**: This is a simple project that allows the user to compare two files to check plagiarism percentage.
   Link = https://plagarismdetector-by-aarathi1535.streamlit.app/
 - **Graduate Admission Predictor**: In this project a student can know if they are eligible to take up graduation admission using their GRE Score, TOFEL Score and other important criteria to evaluate.
