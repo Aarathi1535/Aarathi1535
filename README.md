@@ -10,7 +10,7 @@
 
 🌟 Let's connect and explore the endless possibilities at the intersection of machine learning, data science, and technology. Whether you're looking to collaborate, exchange ideas, or simply geek out about the latest advancements in AI, I'm always eager to engage in meaningful conversations and embark on exciting ventures together. </h4>
 
-**I'm always looking to refine my presentation. Take a moment to view my resume** : http://lnkiy.in/Aarathisree_Resume
+**I'm always looking to refine my presentation. Take a moment to view my resume** : https://rb.gy/x4qgla
 
 - 🔭 I’m currently studying **Bachelor of Technology in Data Science**
 
